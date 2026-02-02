@@ -10,7 +10,7 @@ This project aims to predict real estate property prices using Support Vector Re
 ![NumPy](https://img.shields.io/badge/NumPy-Math-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-blueviolet)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-teal)
-
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
 ## Exploratory Data Analysis (EDA)
