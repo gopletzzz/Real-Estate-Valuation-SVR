@@ -28,8 +28,12 @@ A correlation heatmap is used to examine linear relationships between input feat
 ![correlation_heatmap](https://github.com/gopletzzz/Real-Estate-Valuation-SVR/blob/main/images/correlation_heatmap.png)
 
 ### House Price Distribution
-
 The distribution plot illustrates how house prices are spread across the dataset.
+
+![house_price_distribution](https://github.com/gopletzzz/Real-Estate-Valuation-SVR/blob/main/images/house_price_distribution.png)
+
+### Price Distribution by Number of Convenience Store
+The distribution plot illustrates how house prices are spread across the dataset by the number of covenience store.
 
 ![house_price_distribution](https://github.com/gopletzzz/Real-Estate-Valuation-SVR/blob/main/images/house_price_distribution.png)
 
