@@ -37,11 +37,12 @@ The distribution plot illustrates how house prices are spread across the dataset
 
 ![house_price_distribution](https://github.com/gopletzzz/Real-Estate-Valuation-SVR/blob/main/images/convenience_store.jpeg)
 
+### Dashboard 
+![house_price_distribution](https://github.com/gopletzzz/Real-Estate-Valuation-SVR/blob/main/images/dashboard.png)
+
 For full interactive exploration and the complete dashboard, access the Tableau Public link below.
 [Interactive Dashboard](https://public.tableau.com/views/Book1_17700462283560/RealEstateValuationAnalysisSindianDistrictNewTaipeiCity?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### Dashboard 
-![house_price_distribution](https://github.com/gopletzzz/Real-Estate-Valuation-SVR/blob/main/images/dashboard.png)
 
 ## Model
 ### Baseline Model Performance
