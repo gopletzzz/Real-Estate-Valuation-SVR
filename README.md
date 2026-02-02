@@ -42,7 +42,7 @@ The distribution plot illustrates how house prices are spread across the dataset
 
 For full interactive exploration and the complete dashboard, access the Tableau Public link:
 
-[Interactive Dashboard](https://public.tableau.com/views/Book1_17700462283560/RealEstateValuationAnalysisSindianDistrictNewTaipeiCity?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Interactive Dashboard](https://public.tableau.com/views/Book1_17700462283560/RealEstateValuationAnalysisSindianDistrictNewTaipeiCity?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Model
