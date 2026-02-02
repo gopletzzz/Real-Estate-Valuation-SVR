@@ -4,7 +4,7 @@
 This project aims to predict real estate property prices using Support Vector Regression (SVR).
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-lightgrey)
 ![NumPy](https://img.shields.io/badge/NumPy-Math-orange)
