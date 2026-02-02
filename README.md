@@ -4,7 +4,7 @@
 This project aims to predict real estate property prices using Support Vector Regression (SVR).
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-lightgrey)
 ![NumPy](https://img.shields.io/badge/NumPy-Math-orange)
@@ -28,11 +28,17 @@ A correlation heatmap is used to examine linear relationships between input feat
 ![correlation_heatmap](https://github.com/gopletzzz/Real-Estate-Valuation-SVR/blob/main/images/correlation_heatmap.png)
 
 ### House Price Distribution
-
 The distribution plot illustrates how house prices are spread across the dataset.
 
 ![house_price_distribution](https://github.com/gopletzzz/Real-Estate-Valuation-SVR/blob/main/images/house_price_distribution.png)
 
+### Price Distribution by Number of Convenience Store
+The distribution plot illustrates how house prices are spread across the dataset by the number of covenience store.
+
+![house_price_distribution](https://github.com/gopletzzz/Real-Estate-Valuation-SVR/blob/main/images/house_price_distribution.png)
+
+For full interactive exploration and the complete dashboard, access the Tableau Public link below.
+[Interactive Dashboard](https://public.tableau.com/views/Book1_17700462283560/RealEstateValuationAnalysisSindianDistrictNewTaipeiCity?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Model
 ### Baseline Model Performance
